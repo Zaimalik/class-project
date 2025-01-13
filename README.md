@@ -1,1 +1,1 @@
-# Collective-learning-class-project
+# BLM5109-class-project
